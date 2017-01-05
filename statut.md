@@ -1,62 +1,56 @@
 Chaque modification nécessitant la convocation d’une assemblée générale extraordinaire et devant être déclarée en préfecture, préférez des statuts « allégés » complétés par un règlement intérieur. Celui-ci peut en effet être transformé au gré des évolutions de votre structure, par simple décision du conseil d’administration.
 
-##Article 1
+## Article 1
 
-Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre « … »
+Il est fondé entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et le décret du 16 août 1901, ayant pour titre « Anciens MIMO » (acronyme MIMOA?)
 
-Le « titre » correspond au nom de votre association. Le terme « association » n’y est pas indispensable ; en revanche, pensez à dérouler les acronymes ou les abréviations.
+## Article 2
 
-Pour les fédérations : l’association dite « Fédération X » fondée en regroupement de Y associations régies par la loi 1901 a pour objet…
+Cette association a pour but:
 
-La fédération est une association loi 1901 presque comme les autres. Elle regroupe généralement des associations qui ont toutes un objet proche ou qui œuvrent dans le même sens. S’il s’agit d’une association qui regroupe des fédérations, le terme à retenir est celui d’ « union ». Les statuts fédératifs diffèrent peu des statuts associatifs, en dehors de quelques éléments liés notamment à la nature des membres.
-
-##Article 2
-
-Cette association a pour but…
+* le rayonnement du Master MIMO (Université Paris I - Sorbonne –> évolutions possibles, est-ce que l'association sera liée à une université, les autres universités ayant leur association, et réunies dans une fédération?)
+* connaissance des anciens
 
 L’objet social de l’association encadre votre champ d’action. Pensez à être suffisamment ouverts et inventifs afin de ne pas être limités plus tard en cas d’élargissement de vos activités. Un exemple : passionnés par la Bretagne, vous souhaitez créer une association pour encadrer l’organisation d’un premier concert présentant des chants traditionnels de cette région. En choisissant comme objet social la « promotion de la culture bretonne », vous vous laissez la liberté de vos moyens d’action (concert, conférence, etc.). Vous pouvez aussi être encore plus généraliste et vous assigner comme but la promotion des cultures régionales.
 
-##Article 3
+## Article 3
 
-Le siège social est fixé à… Il pourra être transféré par simple décision du conseil d’administration ; la ratification par l’assemblée générale sera nécessaire.
+Le siège social est fixé à…
+
+ Il pourra être transféré par simple décision du conseil d’administration ; la ratification par l’assemblée générale sera nécessaire.
+
 
 Le siège social peut être dissocié d’éventuels locaux appartenant ou prêtés à l’association. Toutefois, les courriers officiels seront envoyés à l’adresse du siège. Si vous choisissez de domicilier l’association à une adresse personnelle, n’oubliez pas de joindre une copie d’une quittance de loyer ou d’une facture EDF, ainsi qu’une autorisation signée du locataire. Si vous avez la possibilité d’établir le siège social sur votre campus (attention à d’éventuelles contreparties… À vous de négocier avec votre administration), une autorisation du Président de l’Université vous sera nécessaire.
 
 Il faut noter que seuls ces trois premiers éléments doivent être obligatoirement rendus publics (nom, objet et siège social) si l’on se réfère à la loi 1901. Cependant, la pratique veut que l’on étoffe un peu les statuts, qui vont régir le fonctionnement de l’association : cela vous permettra aussi de vous pencher sur votre mode d’organisation et de le mettre en débat.
 
-##Article 4
+## Article 4
 
 L’association se compose de :
 
 - Membres d’honneur
 
-- Membres actifs (= adhérents)
+- Membres actifs (= adhérents):
 
-- Membres bienfaiteurs
+- Membres temporaires\thinspace: sont membres temporaires de l'association les étudiants inscrits au Master MIMO n'ayant pas encore complété leur cursus.
 
 - Membres fondateurs…
 
 Libre à vous de privilégier d’autres intitulés s’ils vous semblent plus parlants. Lorsque l’on parle de membres fondateurs, il est bien d’y associer une liste de personnes physiques en précisant leur identité (nom, prénom, date et lieu de naissance). Vous pourrez définir dans l’article 6 quels sont les droits et devoirs afférents à chaque catégorie de membres.
 
-Pour une fédération : la fédération se compose des associations adhérentes qui sont agréées par le conseil d’administration et à titre individuel, des membres d’honneur, des membres actifs, etc…
-
-Dans une fédération, les membres à titre individuel ont souvent une place marginale, statutairement définie.
-
-##Article 5
-
-Pour faire partie de l’association, il faut être agréé par le bureau qui statue, lors de chacune de ses réunions, sur les demandes d’admission présentées.
-
-Cette formulation vous permet de garder un certain contrôle sur l’association. Il est cependant conseillé de supprimer l’article purement et simplement si vous souhaitez avoir un grand nombre d’adhérents : cette mesure est souvent perçue, à juste titre, comme peu démocratique. À vous de voir, en sachant qu’une réforme statutaire est toujours possible en cas d’un élargissement souhaité.
-
-##Article 6
+## Article 5
 
 Sont membres d’honneur ceux qui ont rendu des services signalés à l’association ; ils sont dispensés de cotisations. Sont membres actifs ceux qui ont pris l’engagement de verser chaque année une somme annuellement fixée par l’assemblée générale.
 
 Les membres d’honneur ne sont pas indispensables, mais sont souvent l’occasion de conserver un contact avec, par exemple, un président sortant. Des membres bienfaiteurs peuvent également être prévus : il s’agit de membres s’acquittant d’un droit d’entrée, ainsi que d’une cotisation plus importante. N’oubliez pas de mettre en adéquation l’article 4 si vous modifiez l’article 6…
 
-##Article 7
+## Article 6
 
-La qualité de membre se perd par : - la démission - le décès - la radiation prononcée par le conseil d’administration pour non paiement de la cotisation ou pour motif grave, l’intéressé ayant été invité par lettre recommandée à se présenter devant le bureau pour fournir des explications.
+La qualité de membre se perd par:
+
+- la démission
+- le décès
+- la radiation prononcée par le conseil d’administration pour non paiement de la cotisation ou pour motif grave, l’intéressé ayant été invité par lettre recommandée à se présenter devant le bureau pour fournir des explications.
 
 ##Article 8
 
