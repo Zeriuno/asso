@@ -50,7 +50,8 @@ La qualité de membre se perd par:
 
 - la démission
 - le décès
-- la radiation prononcée par le conseil d’administration pour motif grave, l’intéressé ayant été invité par lettre recommandée à se présenter devant le bureau pour fournir des explications. (ôté "pour non paiement de la cotisation")
+- la radiation prononcée par le conseil d’administration pour motif grave, l’intéressé ayant été invité par lettre recommandée à se présenter devant le bureau pour fournir des explications.
+(ôté "pour non paiement de la cotisation")
 
 ##Article 8
 
