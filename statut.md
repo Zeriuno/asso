@@ -53,11 +53,15 @@ La qualité de membre se perd par:
 - la radiation prononcée par le conseil d’administration pour motif grave, l’intéressé ayant été invité par lettre recommandée à se présenter devant le bureau pour fournir des explications.
 (ôté "pour non paiement de la cotisation")
 
-##Article 8
+## Article 7
 
-Les ressources de l’association comprennent : - le montant des cotisations - les subventions de l’État, des collectivités territoriales, des institutions de l’enseignement supérieur… - les aides en nature et fonds privés - les produits des activités et services - toutes autres ressources autorisées par les textes législatifs et réglementaires.
+Les ressources de l’association comprennent :
 
-Pour les fédérations, il est possible de préciser : il est tenu une comptabilité faisant apparaître annuellement un compte de résultat ou d’exploitation, le résultat de l’exercice et un bilan. Chaque établissement de la fédération doit tenir une comptabilité distincte qui forme un chapitre spécial de la comptabilité de l’ensemble de la fédération.
+- le montant des cotisations
+- les éventuelles subventions publiques
+- les aides en nature et fonds privés
+- les produits des activités et services
+- toutes autres ressources autorisées par les textes législatifs et réglementaires.
 
 ##Article 9
 
