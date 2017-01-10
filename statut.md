@@ -63,11 +63,13 @@ Les ressources de l’association comprennent :
 - les produits des activités et services
 - toutes autres ressources autorisées par les textes législatifs et réglementaires.
 
-##Article 9
+## Article 8
 
-L’association est dirigée par un conseil de … membres, élus pour … année(s) par l’assemblée générale. En cas de vacance, le conseil pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif lors de la prochaine assemblée générale. Les pouvoirs des membres provisoires prennent fin à l’expiration du mandat des membres qu’ils remplacent.
+L’association est dirigée par un conseil de … membres, élus pour … années par l’assemblée générale.
 
-Le conseil d’administration décide des grandes orientations stratégiques de l’association. Il peut être intéressant d’instaurer des mandats de deux ans, et de renouveler le conseil d’administration par moitié chaque année. Ainsi, vous laissez le temps aux élus de bien s’approprier leur mission, les anciens pouvant chaque fois faciliter l’intégration des nouveaux entrants. Par ailleurs, vous protégez aussi votre structure d’éventuelles tentatives de récupération, ce qui peut arriver si l’ensemble des membres du CA quittent leur poste en même temps. Vous pouvez préciser ici si les membres sont ou non rééligibles. Si cela n’est pas spécifié, il reviendra au règlement intérieur de le fixer… Si besoin est.
+En cas de vacance, le conseil pourvoit provisoirement au remplacement de ses membres. Il est procédé à leur remplacement définitif lors de l'assemblée générale suivante. Les pouvoirs des membres provisoires prennent fin à l’expiration du mandat des membres qu’ils remplacent.
+
+// Le conseil d’administration décide des grandes orientations stratégiques de l’association. Il peut être intéressant d’instaurer des mandats de deux ans, et de renouveler le conseil d’administration par moitié chaque année. Ainsi, vous laissez le temps aux élus de bien s’approprier leur mission, les anciens pouvant chaque fois faciliter l’intégration des nouveaux entrants. Par ailleurs, vous protégez aussi votre structure d’éventuelles tentatives de récupération, ce qui peut arriver si l’ensemble des membres du CA quittent leur poste en même temps. Vous pouvez préciser ici si les membres sont ou non rééligibles. Si cela n’est pas spécifié, il reviendra au règlement intérieur de le fixer… Si besoin est.
 
 - Le conseil d’administration se réunit une fois au moins tous les … mois, sur convocation du président, ou sur la demande du quart de ses membres.
 
@@ -79,7 +81,6 @@ Le conseil d’administration décide des grandes orientations stratégiques de 
 
 Vous pouvez préciser, au second alinéa, les modalités de mise en place de scrutin secret : si un quart des membres le demande, par exemple ; ou encore, de façon systématique lorsqu’il s’agit d’un vote portant sur des personnes physiques. Il est possible éventuellement de préciser que, « en cas d’égalité, la voix du président est prépondérante ». Il est également prudent de fixer des conditions de quorum : « les votes ne sont valides que si la moitié (ou deux tiers) des membres du conseil sont présents ».
 
-Pour les fédérations : la fédération est administrée par un CA composé de … membres appartenant à une association adhérente. Les statuts fixent les règles de désignation des membres et peuvent prévoir, par exemple, une représentation par activité ou par région géographique.
 
 ##Article 10
 
