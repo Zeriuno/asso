@@ -28,11 +28,8 @@ Le siège social est fixé à…
 L’association se compose de :
 
 - Membres d’honneur
-
 - Membres actifs (= adhérents):
-
 - Membres temporaires\thinspace: sont membres temporaires de l'association les étudiants inscrits au Master MIMO n'ayant pas encore complété leur cursus.
-
 - Membres fondateurs…
 
 // Libre à vous de privilégier d’autres intitulés s’ils vous semblent plus parlants. Lorsque l’on parle de membres fondateurs, il est bien d’y associer une liste de personnes physiques en précisant leur identité (nom, prénom, date et lieu de naissance). Vous pourrez définir dans l’article 6 quels sont les droits et devoirs afférents à chaque catégorie de membres.
